@@ -1,0 +1,6 @@
+mileycida boş:bb0202:TR
+mileycida ilgi meraklısı:bb2020:TR
+mileycida ilgi bağımlısı:bb0202:TR
+mileycida hayatı yok:bb0202:TR
+mileycida msp için ölüyor:bb0202:TR
+mileycida vurduruyor:bb0202:TR
